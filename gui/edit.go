@@ -2,8 +2,9 @@ package gui
 
 import (
 	"fmt"
-	"kotobaReviewer/entry"
 	"strings"
+
+	"github.com/ChenGuanChen/kotobaReviewer/entry"
 
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/container"

@@ -2,9 +2,10 @@ package gui
 
 import (
 	"fmt"
-	"kotobaReviewer/db"
-	"kotobaReviewer/quiz"
 	"strings"
+
+	"github.com/ChenGuanChen/kotobaReviewer/db"
+	"github.com/ChenGuanChen/kotobaReviewer/quiz"
 
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/container"

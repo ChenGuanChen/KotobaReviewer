@@ -1,8 +1,9 @@
 package db
 
 import (
-	"kotobaReviewer/entry"
 	"time"
+
+	"github.com/ChenGuanChen/kotobaReviewer/entry"
 )
 
 // VocabDB is the whole saved collection: every entry, plus metadata about

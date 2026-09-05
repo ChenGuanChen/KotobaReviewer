@@ -6,9 +6,9 @@ import (
 
 	"fyne.io/fyne/v2"
 
-	"kotobaReviewer/db"
-	"kotobaReviewer/entry"
-	"kotobaReviewer/quiz"
+	"github.com/ChenGuanChen/kotobaReviewer/db"
+	"github.com/ChenGuanChen/kotobaReviewer/entry"
+	"github.com/ChenGuanChen/kotobaReviewer/quiz"
 )
 
 // studySession holds one Study-tab session's state: which entries are due,

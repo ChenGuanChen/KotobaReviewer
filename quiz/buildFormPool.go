@@ -1,9 +1,9 @@
 package quiz
 
 import (
-	"kotobaReviewer/db"
-	"kotobaReviewer/entry"
-	"kotobaReviewer/parser"
+	"github.com/ChenGuanChen/kotobaReviewer/db"
+	"github.com/ChenGuanChen/kotobaReviewer/entry"
+	"github.com/ChenGuanChen/kotobaReviewer/parser"
 )
 
 func BuildFormPool(database db.VocabDB) []string {

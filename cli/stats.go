@@ -2,7 +2,8 @@ package cli
 
 import (
 	"fmt"
-	"kotobaReviewer/db"
+
+	"github.com/ChenGuanChen/kotobaReviewer/db"
 )
 
 // runStats gives a quick overview of where your deck stands.

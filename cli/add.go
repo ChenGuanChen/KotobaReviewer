@@ -3,10 +3,11 @@ package cli
 import (
 	"bufio"
 	"fmt"
-	"kotobaReviewer/db"
-	"kotobaReviewer/entry"
 	"os"
 	"strings"
+
+	"github.com/ChenGuanChen/kotobaReviewer/db"
+	"github.com/ChenGuanChen/kotobaReviewer/entry"
 )
 
 // runAdd interactively prompts for a brand-new entry and appends it.

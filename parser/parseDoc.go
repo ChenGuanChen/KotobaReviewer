@@ -2,9 +2,10 @@ package parser
 
 import (
 	"fmt"
-	"kotobaReviewer/db"
 	"os"
 	"strings"
+
+	"github.com/ChenGuanChen/kotobaReviewer/db"
 )
 
 // ParseDocFile reads your exported Google Doc text file and turns it into

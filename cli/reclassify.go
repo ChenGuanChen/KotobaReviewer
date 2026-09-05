@@ -2,8 +2,9 @@ package cli
 
 import (
 	"fmt"
-	"kotobaReviewer/db"
-	"kotobaReviewer/parser"
+
+	"github.com/ChenGuanChen/kotobaReviewer/db"
+	"github.com/ChenGuanChen/kotobaReviewer/parser"
 )
 
 func RunReclassify() {

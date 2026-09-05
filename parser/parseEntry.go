@@ -2,9 +2,10 @@ package parser
 
 import (
 	"fmt"
-	"kotobaReviewer/entry"
 	"strings"
 	"unicode"
+
+	"github.com/ChenGuanChen/kotobaReviewer/entry"
 )
 
 type relatedNote struct{ form, marker string }

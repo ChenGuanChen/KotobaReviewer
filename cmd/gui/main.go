@@ -1,7 +1,7 @@
 package main
 
 import (
-	"kotobaReviewer/gui"
+	"github.com/ChenGuanChen/kotobaReviewer/gui"
 
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/app"

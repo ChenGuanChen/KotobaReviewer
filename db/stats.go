@@ -1,8 +1,9 @@
 package db
 
 import (
-	"kotobaReviewer/entry"
 	"time"
+
+	"github.com/ChenGuanChen/kotobaReviewer/entry"
 )
 
 // Stats summarizes review progress across a VocabDB at a point in time.

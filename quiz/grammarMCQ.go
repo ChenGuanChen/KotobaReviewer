@@ -3,11 +3,12 @@ package quiz
 import (
 	"bufio"
 	"fmt"
-	"kotobaReviewer/entry"
-	"kotobaReviewer/parser"
 	"math/rand"
 	"sort"
 	"strings"
+
+	"github.com/ChenGuanChen/kotobaReviewer/entry"
+	"github.com/ChenGuanChen/kotobaReviewer/parser"
 )
 
 // runGrammarMCQ quizzes on one entry as multi-select multiple choice: given

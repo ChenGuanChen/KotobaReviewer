@@ -3,13 +3,14 @@ package cli
 import (
 	"bufio"
 	"fmt"
-	"kotobaReviewer/db"
-	"kotobaReviewer/entry"
-	"kotobaReviewer/quiz"
 	"math/rand"
 	"os"
 	"strconv"
 	"strings"
+
+	"github.com/ChenGuanChen/kotobaReviewer/db"
+	"github.com/ChenGuanChen/kotobaReviewer/entry"
+	"github.com/ChenGuanChen/kotobaReviewer/quiz"
 )
 
 // runStudy is the real spaced-repetition mode: only cards that are actually

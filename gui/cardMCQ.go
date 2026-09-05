@@ -8,8 +8,8 @@ import (
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/widget"
 
-	"kotobaReviewer/entry"
-	"kotobaReviewer/quiz"
+	"github.com/ChenGuanChen/kotobaReviewer/entry"
+	"github.com/ChenGuanChen/kotobaReviewer/quiz"
 )
 
 // showMCQCard renders a grammar entry that fits the "forms + point" shape

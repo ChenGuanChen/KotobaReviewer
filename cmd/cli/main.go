@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"kotobaReviewer/cli"
-	"kotobaReviewer/db"
 	"os"
+
+	"github.com/ChenGuanChen/kotobaReviewer/cli"
+	"github.com/ChenGuanChen/kotobaReviewer/db"
 )
 
 func main() {

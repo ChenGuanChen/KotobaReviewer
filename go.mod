@@ -1,4 +1,4 @@
-module kotobaReviewer
+module github.com/ChenGuanChen/kotobaReviewer
 
 go 1.27.0
 

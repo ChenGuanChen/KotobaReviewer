@@ -1,8 +1,9 @@
 package parser
 
 import (
-	"kotobaReviewer/entry"
 	"strings"
+
+	"github.com/ChenGuanChen/kotobaReviewer/entry"
 )
 
 // ClassifyType decides vocab vs. grammar from a raw doc line. Shared by the
