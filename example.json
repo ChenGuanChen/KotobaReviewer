@@ -1,0 +1,2261 @@
+{
+  "database": [
+    {
+      "id": "eb349f17a9fbe59c",
+      "type": "vocab",
+      "word": "兼ねる",
+      "reading": "かねる",
+      "notes": "兼ねる（かねる）とは、 1.一つのものや人が複数の機能や役割を持つこと、または複数の行動や状態が同時に起こることを指す動詞である。例えば、一つの部屋が書斎としても客間としても使用される場合や、一人が複数の職務を兼任する状況が「兼ねる」の用法に該当する。 2.また、心情や状況において、ある行動を取ることが難しいと感じる際にも使用される。例えば、「言いたいことがあるが、言い兼ねる」という表現では、何かを言うことに躊躇している様子を示している。この言葉は、日常生活において多様な文脈で用いられる。 3.心配。気兼ねる | (兼ねない) 反義，不是很難-\u003e有可能，通常用於形容壞事有可能發生",
+      "related_forms": [
+        {
+          "form": "兼ねない",
+          "reading": "かねない"
+        }
+      ],
+      "raw_line": "兼ねる[a] かねる ＊兼ねない[b] かねない"
+    },
+    {
+      "id": "64e3ce250de3aba1",
+      "type": "vocab",
+      "word": "尋ねる",
+      "reading": "たずねる",
+      "related_forms": [
+        {
+          "form": "お尋ね"
+        }
+      ],
+      "raw_line": "尋ねる たずねる ＊お尋ね"
+    },
+    {
+      "id": "b3b554da69cc5dbb",
+      "type": "vocab",
+      "word": "内（に）",
+      "raw_line": "内（に）"
+    },
+    {
+      "id": "794809188c447acf",
+      "type": "vocab",
+      "word": "（何階）建て",
+      "reading": "だて",
+      "raw_line": "（何階）建て だて"
+    },
+    {
+      "id": "95bddeb2b12bae88",
+      "type": "vocab",
+      "word": "値下げ",
+      "reading": "ねさげ",
+      "raw_line": "値下げ ねさげ"
+    },
+    {
+      "id": "d4067564a54b6c6f",
+      "type": "vocab",
+      "word": "酒気帯び運転",
+      "reading": "しゅきおびうんてん",
+      "raw_line": "酒気帯び運転 しゅきおびうんてん"
+    },
+    {
+      "id": "c8b43c74bed9ae7b",
+      "type": "vocab",
+      "word": "避ける",
+      "reading": "さける",
+      "raw_line": "避ける さける"
+    },
+    {
+      "id": "2c1eebc9f2c4b540",
+      "type": "vocab",
+      "word": "折る",
+      "reading": "おる",
+      "notes": "(筆（ふで）を折る) 「筆を折る」とは、作家や画家などの創作活動において、文章を書くことや絵を描くことを完全にやめる（引退する）ことを意味する慣用句です。二度と作品を作らないという強い決意を示す言葉としても使われます。",
+      "related_forms": [
+        {
+          "form": "骨を折る"
+        },
+        {
+          "form": "筆（ふで）を折る"
+        }
+      ],
+      "raw_line": "折る おる ＊骨を折る ＊筆（ふで）を折る[c]"
+    },
+    {
+      "id": "f33ecce2082c9e0b",
+      "type": "vocab",
+      "word": "応接室",
+      "reading": "おうせつま",
+      "raw_line": "応接室 おうせつま"
+    },
+    {
+      "id": "cb2189bc49719469",
+      "type": "vocab",
+      "word": "贅沢",
+      "reading": "ぜいたく",
+      "raw_line": "贅沢 ぜいたく"
+    },
+    {
+      "id": "b79bd01296dcba86",
+      "type": "vocab",
+      "word": "恐ろしい",
+      "reading": "おそろしい",
+      "raw_line": "恐ろしい おそろしい"
+    },
+    {
+      "id": "9db87f1e0bb800f1",
+      "type": "vocab",
+      "word": "夕立",
+      "reading": "ゆうだち",
+      "notes": "夕立（ゆうだち）とは、主に夏の午後から夕方にかけて、急に降り出す激しいにわか雨のことです。強い日差しで暖められた空気が上昇して積乱雲（入道雲）が発生し、雷を伴って短時間で強く降るのが特徴です。夕立についてさらに詳しい情報は、以下の項目をご参照ください。 気象の仕組み: 地面の熱で上昇気流が生まれ、雲が急激に発達することで起こります。長くても1時間程度でやむことが多いです。 言葉の由来: 夕方（ゆうがた）に雷を伴って急に降る（立つ）雨であることから「夕立」と呼ばれるようになりました。 別名・季語: 夏の季語 であり、「白雨（はくう）」や「神立（かんだち）」という美しい別名もあります。 ゲリラ豪雨との違い: 夕立は夏特有の自然現象ですが、現代で使われる「ゲリラ豪雨（局地的大雨）」は、季節を問わず突発的に降る予測困難な雨を指すニュース用語です。",
+      "raw_line": "夕立[d] ゆうだち"
+    },
+    {
+      "id": "474d077469a8b965",
+      "type": "vocab",
+      "word": "押し入れ",
+      "reading": "おしいれ",
+      "raw_line": "押し入れ おしいれ"
+    },
+    {
+      "id": "a851dcc6f04a49ed",
+      "type": "vocab",
+      "word": "伺う",
+      "reading": "うかがう",
+      "related_forms": [
+        {
+          "form": "お伺い"
+        }
+      ],
+      "raw_line": "伺う うかがう ＊お伺い"
+    },
+    {
+      "id": "271dbb291f12bc3a",
+      "type": "vocab",
+      "word": "凡そ",
+      "reading": "およそ",
+      "raw_line": "凡そ およそ",
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "7b0d9b5c1b1c937b",
+      "type": "vocab",
+      "word": "煙草",
+      "reading": "タバコ",
+      "raw_line": "煙草 タバコ"
+    },
+    {
+      "id": "55691ccf487adc9f",
+      "type": "vocab",
+      "word": "ガソリンスタンド",
+      "raw_line": "ガソリンスタンド",
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "ab31c8b068734abc",
+      "type": "vocab",
+      "word": "花瓶",
+      "reading": "かびん",
+      "raw_line": "花瓶 かびん"
+    },
+    {
+      "id": "727d283f4181954d",
+      "type": "vocab",
+      "word": "落とす",
+      "related_forms": [
+        {
+          "form": "命を落とす"
+        }
+      ],
+      "raw_line": "落とす ＊命を落とす"
+    },
+    {
+      "id": "a7647c65d9d0cfb1",
+      "type": "vocab",
+      "word": "強風",
+      "reading": "きょうふ",
+      "raw_line": "強風 きょうふ"
+    },
+    {
+      "id": "ab5b35918eacf0b9",
+      "type": "vocab",
+      "word": "看護婦",
+      "reading": "かんごふ",
+      "raw_line": "看護婦 かんごふ",
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "4eda0501aa2aaa19",
+      "type": "vocab",
+      "word": "気温",
+      "reading": "きおん",
+      "related_forms": [
+        {
+          "form": "零下",
+          "reading": "れいか"
+        }
+      ],
+      "raw_line": "気温 きおん ＊零下 れいか"
+    },
+    {
+      "id": "e1295aead7082bba",
+      "type": "vocab",
+      "word": "捕まえる",
+      "reading": "つかまえる",
+      "raw_line": "捕まえる つかまえる"
+    },
+    {
+      "id": "0ab8f15054e87377",
+      "type": "vocab",
+      "word": "故障",
+      "reading": "こしょう",
+      "raw_line": "故障 こしょう"
+    },
+    {
+      "id": "cb1ca38d630b50c1",
+      "type": "vocab",
+      "word": "汽車",
+      "reading": "きしゃ",
+      "related_forms": [
+        {
+          "form": "時刻表",
+          "reading": "じこくひょう"
+        }
+      ],
+      "raw_line": "汽車 きしゃ ＊時刻表 じこくひょう",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "d72aa6767018c266",
+      "type": "vocab",
+      "word": "季節の移り変わり",
+      "reading": "きせつのうつりかわる",
+      "raw_line": "季節の移り変わり きせつのうつりかわる"
+    },
+    {
+      "id": "c1085e975adf02ac",
+      "type": "vocab",
+      "word": "従う",
+      "reading": "したがう",
+      "raw_line": "従う したがう"
+    },
+    {
+      "id": "6a3a519171269155",
+      "type": "vocab",
+      "word": "切手",
+      "reading": "きって",
+      "raw_line": "切手 きって",
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "4b90db84863f52b2",
+      "type": "vocab",
+      "word": "絹",
+      "reading": "きぬ",
+      "notes": "絹（読み）キヌ（その他表記）silk 翻訳｜silk デジタル大辞泉 「絹」の意味・読み・例文・類語 きぬ【絹】 １ 蚕の繭からとった繊維。 ２ 絹糸で織った織物。絹織物。 [類語]羊毛・純毛・ウール・カシミア・モヘア・木綿・綿めん・純綿・真綿まわた・コットン・麻・ジュート・本絹・正絹しょうけん・人造絹糸・シルク・化学繊維",
+      "raw_line": "絹[e] きぬ"
+    },
+    {
+      "id": "148cdde2ffd93e0f",
+      "type": "vocab",
+      "word": "急行",
+      "reading": "きゅうこう",
+      "notes": "(見合わせる) 1. 中止・延期する（一時的な保留）実行するのを控えて、様子を見ること。事情により「今はやめておく」「一旦ストップする」といったニュアンスです。例文：「悪天候のため、列車の運転を見合わせる」例文：「感染症拡大にともない、懇親会の開催を見合わせる」 2. 比較・照合する2つ以上のものを並べて見比べること。例文：「複数の見積もりを見合わせて検討する」 3. 互いに顔を見るお互いの顔を見交わすこと。例文：「出席者たちが顔を見合わせる」 ビジネスシーンでは、相手からの提案をやんわりと断ったり、計画を一時的にストップする際に「見合わせる」や「見合わせていただく」という表現がよく使われます。",
+      "related_forms": [
+        {
+          "form": "急行列車",
+          "reading": "きゅうこうれっしゃ"
+        },
+        {
+          "form": "見合わせる",
+          "reading": "みあわせる"
+        }
+      ],
+      "raw_line": "急行 きゅうこう ＊急行列車 きゅうこうれっしゃ ＊見合わせる[f] みあわせる"
+    },
+    {
+      "id": "3101c90004cb6f78",
+      "type": "vocab",
+      "word": "炒める",
+      "reading": "いためる",
+      "raw_line": "炒める いためる"
+    },
+    {
+      "id": "b8d0da0d61318a3e",
+      "type": "vocab",
+      "word": "キリスト教",
+      "raw_line": "キリスト教"
+    },
+    {
+      "id": "1fb593d9747f93b5",
+      "type": "vocab",
+      "word": "近所",
+      "reading": "きんじょ",
+      "raw_line": "近所 きんじょ 47",
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "668158ae4439309d",
+      "type": "vocab",
+      "word": "曇り",
+      "reading": "くもり",
+      "raw_line": "曇り くもり",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "c48e01670e77c6d6",
+      "type": "vocab",
+      "word": "生カキ",
+      "reading": "なまかき",
+      "raw_line": "生カキ なまかき",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "a353440297285fa1",
+      "type": "vocab",
+      "word": "混ぜる",
+      "reading": "まぜる",
+      "raw_line": "混ぜる まぜる"
+    },
+    {
+      "id": "e84fbb3937c2c8b0",
+      "type": "vocab",
+      "word": "煮込む",
+      "reading": "にこむ",
+      "raw_line": "煮込む にこむ"
+    },
+    {
+      "id": "257b1538fd8f7f5c",
+      "type": "vocab",
+      "word": "屏風",
+      "reading": "びょうぶ",
+      "raw_line": "屏風 びょうぶ"
+    },
+    {
+      "id": "f0f524c661a56ca7",
+      "type": "vocab",
+      "word": "書棚",
+      "reading": "しょだな",
+      "raw_line": "書棚 しょだな"
+    },
+    {
+      "id": "c5b4e0ec119c6ae9",
+      "type": "vocab",
+      "word": "下宿",
+      "reading": "げしゅく",
+      "raw_line": "下宿 げしゅく"
+    },
+    {
+      "id": "874ce484e0bc0ce1",
+      "type": "vocab",
+      "word": "国際",
+      "reading": "こくさい",
+      "raw_line": "国際 こくさい"
+    },
+    {
+      "id": "688abf8996d78ae7",
+      "type": "vocab",
+      "word": "見物",
+      "reading": "けんぶつ",
+      "raw_line": "見物 けんぶつ"
+    },
+    {
+      "id": "6a8cd213dc5ed2b0",
+      "type": "vocab",
+      "word": "郊外",
+      "reading": "こうがい",
+      "raw_line": "郊外 こうがい",
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "d1019c624dc4e22c",
+      "type": "vocab",
+      "word": "講義",
+      "reading": "こうぎ",
+      "raw_line": "講義 こうぎ",
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "aee9d2440a1ce9a8",
+      "type": "vocab",
+      "word": "盛ん（な[g]）",
+      "reading": "さかん",
+      "raw_line": "盛ん（な[g]） さかん"
+    },
+    {
+      "id": "83b4e7751710c463",
+      "type": "vocab",
+      "word": "従業員",
+      "reading": "じゅうぎょういん",
+      "raw_line": "従業員 じゅうぎょういん"
+    },
+    {
+      "id": "9a32299491efa72d",
+      "type": "vocab",
+      "word": "堪らない",
+      "reading": "たまらない",
+      "raw_line": "堪らない たまらない"
+    },
+    {
+      "id": "909584ab22f88ca4",
+      "type": "vocab",
+      "word": "講堂",
+      "reading": "こうどう",
+      "raw_line": "講堂 こうどう 57"
+    },
+    {
+      "id": "1e8cafe08d957ef2",
+      "type": "grammar",
+      "word": "ｖた/Ｎの",
+      "notes": "[unparsed: + あげく]",
+      "raw_line": "ｖた/Ｎの + あげく",
+      "needs_review": true
+    },
+    {
+      "id": "030030bffbfffba3",
+      "type": "vocab",
+      "word": "心の/がこもった[h]＋名詞",
+      "raw_line": "心の/がこもった[h]＋名詞",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "ee73344ae7fc5607",
+      "type": "vocab",
+      "word": "砕く",
+      "notes": "[unparsed: / 砕ける くだく / くだける]",
+      "tag": "N3",
+      "raw_line": "砕く / 砕ける くだく / くだける 67 N3",
+      "needs_review": true
+    },
+    {
+      "id": "46b1a1d832e23914",
+      "type": "vocab",
+      "word": "胃腸炎",
+      "reading": "いちょうえん",
+      "raw_line": "胃腸炎 いちょうえん"
+    },
+    {
+      "id": "fbd5901b96339f8a",
+      "type": "vocab",
+      "word": "多忙（な）",
+      "reading": "たぼう",
+      "raw_line": "多忙（な） たぼう",
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "a15d6d7e7ea965be",
+      "type": "vocab",
+      "word": "拝命",
+      "reading": "はいめい",
+      "raw_line": "拝命 はいめい"
+    },
+    {
+      "id": "0ebd736535ffb942",
+      "type": "vocab",
+      "word": "幹線道路",
+      "reading": "かんせんどうろ",
+      "raw_line": "幹線道路 かんせんどうろ",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "fda9f2c4c7ed3242",
+      "type": "vocab",
+      "word": "整備",
+      "reading": "せいび",
+      "raw_line": "整備 せいび"
+    },
+    {
+      "id": "3717d3c62477f85f",
+      "type": "vocab",
+      "word": "豊か（な）",
+      "reading": "ゆたか",
+      "raw_line": "豊か（な） ゆたか"
+    },
+    {
+      "id": "4ec9c00071a3be87",
+      "type": "vocab",
+      "word": "危機",
+      "reading": "きき",
+      "raw_line": "危機 きき",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "0aa80117c26a8001",
+      "type": "vocab",
+      "word": "先進国",
+      "reading": "せんしんこく",
+      "raw_line": "先進国 せんしんこく",
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "3ff5095528fd1481",
+      "type": "vocab",
+      "word": "発展途上国",
+      "reading": "はってんとじょうこく",
+      "raw_line": "発展途上国 はってんとじょうこく"
+    },
+    {
+      "id": "247ea44095ea0de3",
+      "type": "vocab",
+      "word": "依然として",
+      "reading": "いぜんとして",
+      "raw_line": "依然として いぜんとして"
+    },
+    {
+      "id": "f19454ba25ea208c",
+      "type": "vocab",
+      "word": "貧困",
+      "reading": "ひんこん",
+      "raw_line": "貧困 ひんこん"
+    },
+    {
+      "id": "4860944e187738e8",
+      "type": "vocab",
+      "word": "飢餓",
+      "reading": "きが",
+      "tag": "N2",
+      "raw_line": "飢餓 きが 34 N2"
+    },
+    {
+      "id": "c7c5005ee258b9a3",
+      "type": "vocab",
+      "word": "取り替える",
+      "reading": "とりかえる",
+      "raw_line": "取り替える とりかえる"
+    },
+    {
+      "id": "e0c0b083df46a4a2",
+      "type": "vocab",
+      "word": "支度",
+      "reading": "したく",
+      "notes": "主な意味と使い方 1. 準備・用意: 予定している物事に向けて必要な物品や環境を整えること。例文：「旅行の支度をする」、「出張の支度」 2. 身なりを整える（身支度）: 外出前などに服を着替えたり、化粧や髪型を整えたりすること。例文：「出かけるから早く身支度をしなさい」 3. 食事の準備: 食事を作ったり、配膳したりすること。例文：「夕食の支度をする」 「仕度」との違い 「支度」は「仕度」と書かれることもありますが、意味や使い方に違いはありません。本来は「支度」と書くのが一般的で、「仕度」は当て字として広まったものです。「準備」「用意」との違い 類語である「準備」は計画的に物事を整える全般を指し、「用意」は前もって気を配って物を揃えることを指します。「支度」は、特に個人的な行動や身の回りのこと（食事や着替えなど）に対して使われることが多い傾向があります。",
+      "raw_line": "支度[i] したく"
+    },
+    {
+      "id": "c1f2216749a80cf5",
+      "type": "vocab",
+      "word": "自転車に乗れる",
+      "raw_line": "自転車に乗れる"
+    },
+    {
+      "id": "5607028c52126d8c",
+      "type": "vocab",
+      "word": "品物",
+      "reading": "しなもの",
+      "notes": "商品・物品（最も一般的な意味）：店で売られているものや、具体的な形を持つ品物全般を指します。例文：「デパートで良い品物を選ぶ。」例文：「この店は色々な種類の品物を扱っている。」人物の評価・品格：その人の立ち居振る舞いや品格を指すこともあります。例文：「あいつはなかなかいい品物だ（＝人間ができている、見込みがある）。」「品物」と「商品」の違い品物（しなもの）：形のある「モノ」全般を広く指す言葉です。まだ売る予定のない手作りの品や、贈り物なども含まれます。商品（しょうひん）：利益を得るために「売買されること」を目的とした品物を指します。「店頭に並んでいるもの」を指す場合は両方使えますが、販売目的ではない贈り物や単なる物品を「商品」と呼ぶことはできません。",
+      "raw_line": "品物[j] しなもの"
+    },
+    {
+      "id": "c66983b7c172b1ee",
+      "type": "vocab",
+      "word": "陳列",
+      "reading": "ちんれつ",
+      "raw_line": "陳列 ちんれつ"
+    },
+    {
+      "id": "9010399bea9e211f",
+      "type": "vocab",
+      "word": "やり通す",
+      "reading": "やりとおす",
+      "notes": "「やり通す（やりとおす）」は、物事を途中で投げ出さずに、最初から最後までやり遂げることや、方針を貫徹することを意味します。困難な状況や辛いプロセスがあっても、目標まで到達するという強い意志や粘り強さが含まれる言葉です。 主な使い方 ・例文目標を達成する: 「一度やると決めたからには、最後までやり通す覚悟だ。」 ・意思を貫く: 「自分の信念をやり通す。」任務を完遂する: 「どんなに困難な仕事でも必ずやり通す。」 類語・関連表現 やり遂げる（やりとげる）: 困難なことを最後まで成し遂げる。やり抜く（やりぬく）: 途中で挫折せずに、最後まで頑張り通す。貫徹する（かんてつする）: 最初から最後まで自分の考えや方針を曲げずに押し通す。",
+      "raw_line": "やり通す[k] やりとおす"
+    },
+    {
+      "id": "ff7622e4c41d5b18",
+      "type": "vocab",
+      "word": "字引",
+      "reading": "じびき",
+      "raw_line": "字引 じびき"
+    },
+    {
+      "id": "baad2d5f8834fdc6",
+      "type": "vocab",
+      "word": "顔が広い",
+      "reading": "かおがひろい",
+      "raw_line": "顔が広い かおがひろい",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "51bea4cee07fb01e",
+      "type": "vocab",
+      "word": "習慣（をつける）",
+      "reading": "しゅうかん",
+      "raw_line": "習慣（をつける） しゅうかん"
+    },
+    {
+      "id": "86721de318da9d57",
+      "type": "vocab",
+      "word": "労働人口",
+      "reading": "ろうどうじんこう",
+      "related_forms": [
+        {
+          "form": "人口",
+          "reading": "じんこう"
+        },
+        {
+          "form": "労働率",
+          "reading": "ろうどうりつ"
+        }
+      ],
+      "raw_line": "労働人口 ろうどうじんこう ＊人口 じんこう ＊労働率 ろうどうりつ",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "1fd1da3edb396f04",
+      "type": "vocab",
+      "word": "早速",
+      "reading": "さっそく",
+      "raw_line": "早速 さっそく",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "6e12a077e5c5a8bb",
+      "type": "vocab",
+      "word": "次の便",
+      "reading": "つぎのびん",
+      "notes": "１ 次の便り。この次に出す手紙や荷物など。「委細は次便にてお伝えします」 ２ 飛行機や船などの、次に出る便。「予約を次便に変更する」",
+      "related_forms": [
+        {
+          "form": "次便",
+          "reading": "じびん"
+        }
+      ],
+      "raw_line": "次の便[l] つぎのびん ＊次便 じびん"
+    },
+    {
+      "id": "7e11b8e7c563360e",
+      "type": "vocab",
+      "word": "披露宴",
+      "reading": "ひろうえん",
+      "meaning": "めでたい事柄を発表するため多くの人を招いてする宴会。ひろめの宴。「結婚披露宴」",
+      "notes": "めでたい事柄を発表するため多くの人を招いてする宴会。ひろめの宴。「結婚披露宴」",
+      "raw_line": "披露宴[m] ひろうえん"
+    },
+    {
+      "id": "76c9d89cf2495e2e",
+      "type": "vocab",
+      "word": "食料品",
+      "reading": "しょくりょうひん",
+      "meaning": "食料とする品物。食品。普通は、肉類・野菜類・果実類など主食品以外のものをさす",
+      "notes": "食料とする品物。食品。普通は、肉類・野菜類・果実類など主食品以外のものをさす",
+      "raw_line": "食料品[n] しょくりょうひん"
+    },
+    {
+      "id": "2bb62515c4b9a89c",
+      "type": "vocab",
+      "word": "お新香",
+      "reading": "おしんこ",
+      "meaning": "野菜の漬物。香の物。",
+      "notes": "野菜の漬物。香の物。",
+      "raw_line": "お新香[o] おしんこ"
+    },
+    {
+      "id": "98423f6a0887cc21",
+      "type": "vocab",
+      "word": "初詣",
+      "reading": "はつもうで",
+      "related_forms": [
+        {
+          "form": "元旦",
+          "reading": "がんた"
+        }
+      ],
+      "tag": "N3",
+      "raw_line": "初詣 はつもうで ＊元旦 がんた 77 Ｎ３"
+    },
+    {
+      "id": "45ed03896f3ef646",
+      "type": "vocab",
+      "word": "統計学者",
+      "reading": "とうけいがくしゃ",
+      "raw_line": "統計学者 とうけいがくしゃ"
+    },
+    {
+      "id": "b898df45ffaf8ac5",
+      "type": "vocab",
+      "word": "緻密（な）",
+      "reading": "ちみつ",
+      "raw_line": "緻密（な） ちみつ"
+    },
+    {
+      "id": "e74176eafd3917fe",
+      "type": "vocab",
+      "word": "追求",
+      "reading": "ついきゅう",
+      "notes": "「追求」は、目的や理想、利益などを追い求めること。「追及」は、責任や原因をどこまでも追い詰めて問いただすことを意味します。それぞれ以下のような場面で使われます。追求（おいは求める、目指す）理想、幸福、利益など、自分が手に入れたい・目指したいものに対して使われます。例文: 「理想を追求する」「利益を追求する」「幸せを追求する」追及（おいつめる、問いただす）犯人、責任、原因など、逃げているものや、隠されている真相を追い詰める際に使われます。例文: 「責任を追及する」「犯人を追及する」「原因を追及する」",
+      "raw_line": "追求[p] ついきゅう"
+    },
+    {
+      "id": "715fe05fdab0e212",
+      "type": "vocab",
+      "word": "極めて",
+      "reading": "きわめて",
+      "raw_line": "極めて きわめて"
+    },
+    {
+      "id": "a065ceaf47b79482",
+      "type": "vocab",
+      "word": "自国内",
+      "reading": "じこくない",
+      "raw_line": "自国内 じこくない"
+    },
+    {
+      "id": "5950f1dba5f7bae2",
+      "type": "vocab",
+      "word": "相対的（に）",
+      "reading": "そうたいてき",
+      "raw_line": "相対的（に） そうたいてき"
+    },
+    {
+      "id": "f9e08dd9860d3d92",
+      "type": "vocab",
+      "word": "食料自給率",
+      "reading": "しょくりょうじきゅうりつ",
+      "raw_line": "食料自給率 しょくりょうじきゅうりつ",
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "6cb6b615a6570b18",
+      "type": "vocab",
+      "word": "減少",
+      "reading": "げんしょう",
+      "raw_line": "減少 げんしょう"
+    },
+    {
+      "id": "c64f817820c06241",
+      "type": "vocab",
+      "word": "就職難",
+      "reading": "しゅうしょくなん",
+      "raw_line": "就職難 しゅうしょくなん"
+    },
+    {
+      "id": "1d7ffb886c080ac1",
+      "type": "vocab",
+      "word": "深刻化",
+      "reading": "しんこくか",
+      "raw_line": "深刻化 しんこくか"
+    },
+    {
+      "id": "9a1e1d0bb5061b0c",
+      "type": "vocab",
+      "word": "（観客を）魅せる",
+      "reading": "みせる",
+      "related_forms": [
+        {
+          "form": "（誰に）魅せられる"
+        }
+      ],
+      "raw_line": "（観客を）魅せる みせる ＊（誰に）魅せられる",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "56380a3dcf43deee",
+      "type": "vocab",
+      "word": "ためになる",
+      "notes": "「ためになる」とは、ある物事や情報が知識・スキルの向上や問題解決において「役に立つ」「利益になる」という意味です。新しい知識を得たり、今後の人生や実生活にプラスの影響を与える価値のある経験に対して使われます。【意味と用法】漢字では「為になる」と書き、主に次のような場面で使用されます。知識や経験の吸収： 人の話を聞いたり本を読んだりして、学びや気づきを得たとき。有益な情報： セミナーやアドバイスなど、今後の行動や成長に直接役立つ情報に対して。【例文】「先輩からのアドバイスは、非常にためになる内容だった」「この本は、今後の仕事のためになるので読んでおくと良い」「誰かのためになる仕事がしたいです」",
+      "raw_line": "ためになる[q]"
+    },
+    {
+      "id": "ca796c14f45a291a",
+      "type": "vocab",
+      "word": "腹に来る",
+      "reading": "はらにくる",
+      "notes": "「腹に来る」は、物理的に「お腹の調子が悪くなること（胃腸を壊すなど）」と、感情面で「心に強く響くこと（感動、怒り、ショックなど）」の2つの意味を持つ慣用句です。文脈により使い分けられます。大きく分けて以下の2つの場面で使われます。1. 物理的な不調（胃腸へのダメージ）食べ物や飲み物が胃腸に直接影響を与える状態です。例文: 「この辛いラーメンはかなり腹に来るね」例文: 「冷房で体が冷えて腹に来た（お腹を下した）」2. 感情的な影響（心に深く響く）言葉や出来事が、感情（怒りや感動）として心の底に強く伝わってくる状態です。例文: 「彼の皮肉な言葉が腹に来た（腹が立った）」例文: 「あの映画のラストシーンは腹に来る（胸を打つ・感動した）",
+      "related_forms": [
+        {
+          "form": "腹",
+          "reading": "はら"
+        },
+        {
+          "form": "腹立つ",
+          "reading": "はらだつ"
+        }
+      ],
+      "raw_line": "腹に来る[r] はらにくる ＊腹 はら ＊腹立つ はらだつ"
+    },
+    {
+      "id": "750f4cae3c553126",
+      "type": "vocab",
+      "word": "調光器",
+      "reading": "ちょうこうき",
+      "related_forms": [
+        {
+          "form": "照明",
+          "reading": "しょうめい"
+        },
+        {
+          "form": "省エネ",
+          "reading": "しょうえね"
+        }
+      ],
+      "raw_line": "調光器 ちょうこうき ＊照明 しょうめい ＊省エネ しょうえね"
+    },
+    {
+      "id": "3c1cdc948512f8e9",
+      "type": "vocab",
+      "word": "（何に）貢献する",
+      "reading": "こうけんする",
+      "raw_line": "（何に）貢献する こうけんする"
+    },
+    {
+      "id": "5a7f46a700df9a1c",
+      "type": "vocab",
+      "word": "一方（で/は）",
+      "raw_line": "一方（で/は）"
+    },
+    {
+      "id": "8d80e2852c6644e8",
+      "type": "vocab",
+      "word": "一方（だ/です）",
+      "raw_line": "一方（だ/です）"
+    },
+    {
+      "id": "10ece668e2aa7b0d",
+      "type": "vocab",
+      "word": "上（で）（/の+Ｎ）",
+      "raw_line": "上（で）（/の+Ｎ）"
+    },
+    {
+      "id": "a960957a80d36da7",
+      "type": "vocab",
+      "word": "熟慮",
+      "reading": "じゅくりょ",
+      "raw_line": "熟慮 じゅくりょ",
+      "ease_factor": 2.36,
+      "interval_days": 6,
+      "repetitions": 2,
+      "next_review_at": "2026-09-12",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "73a2167db3af8ef1",
+      "type": "vocab",
+      "word": "立秋",
+      "reading": "りっしゅう",
+      "raw_line": "立秋 りっしゅう"
+    },
+    {
+      "id": "101c70950c19cd2c",
+      "type": "vocab",
+      "word": "（お）問い合わせ",
+      "reading": "といあわせ",
+      "raw_line": "（お）問い合わせ といあわせ"
+    },
+    {
+      "id": "d29ff03d199c6637",
+      "type": "vocab",
+      "word": "雇用期間",
+      "reading": "こようきかん",
+      "tag": "N2",
+      "raw_line": "雇用期間 こようきかん Ｎ２ 43"
+    },
+    {
+      "id": "2fc2a3e7475d38e7",
+      "type": "vocab",
+      "word": "隅",
+      "reading": "すみ",
+      "meaning": "Corner",
+      "raw_line": "隅 すみ",
+      "ease_factor": 2.7,
+      "interval_days": 6,
+      "repetitions": 2,
+      "next_review_at": "2026-09-12",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "b8bf07310b778ef7",
+      "type": "vocab",
+      "word": "追う",
+      "reading": "おう",
+      "raw_line": "追う おう"
+    },
+    {
+      "id": "d2cbbe80fe7d72cb",
+      "type": "vocab",
+      "word": "セーター",
+      "raw_line": "セーター"
+    },
+    {
+      "id": "c4312905f40639fc",
+      "type": "vocab",
+      "word": "背広",
+      "reading": "せびろ",
+      "raw_line": "背広 せびろ"
+    },
+    {
+      "id": "33d1ff9e42e9e4fc",
+      "type": "vocab",
+      "word": "逞しい",
+      "reading": "たくましい",
+      "raw_line": "逞しい たくましい"
+    },
+    {
+      "id": "9baa7bde7638d66d",
+      "type": "vocab",
+      "word": "親愛なる",
+      "reading": "しんあいなる",
+      "raw_line": "親愛なる しんあいなる",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "5026705664082148",
+      "type": "vocab",
+      "word": "染まる",
+      "reading": "そまる",
+      "raw_line": "染まる そまる",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "fe9c6eec1c744607",
+      "type": "vocab",
+      "word": "（試験に）受かる",
+      "reading": "うかる",
+      "meaning": "受かるｖｓ受ける】 ➀試験「に」受かる 合格、考上 ②試験「を」受ける 受ける本義是［接受］、所以有接受考試 應考的意思",
+      "notes": "受かるｖｓ受ける】 ➀試験「に」受かる 合格、考上 ②試験「を」受ける 受ける本義是［接受］、所以有接受考試 應考的意思",
+      "raw_line": "（試験に）受かる[s] うかる"
+    },
+    {
+      "id": "b05ac7bfd14c7d9c",
+      "type": "vocab",
+      "word": "台所",
+      "reading": "だいどころ",
+      "raw_line": "台所 だいどころ"
+    },
+    {
+      "id": "a340113ea620e60a",
+      "type": "vocab",
+      "word": "懐中電灯",
+      "reading": "かいちゅうでんとう",
+      "raw_line": "懐中電灯 かいちゅうでんとう",
+      "ease_factor": 2.6,
+      "interval_days": 6,
+      "repetitions": 2,
+      "next_review_at": "2026-09-09",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "524420a4a99bf828",
+      "type": "vocab",
+      "word": "緩やか[t]（な）",
+      "raw_line": "緩やか[t]（な）"
+    },
+    {
+      "id": "359f25d35b57e0a1",
+      "type": "vocab",
+      "word": "畳",
+      "reading": "たたみ",
+      "related_forms": [
+        {
+          "form": "敷く",
+          "reading": "しく"
+        }
+      ],
+      "raw_line": "畳 たたみ ＊敷く しく"
+    },
+    {
+      "id": "eeb57380a98d5c9b",
+      "type": "vocab",
+      "word": "縦",
+      "reading": "たて",
+      "related_forms": [
+        {
+          "form": "VS.横よこ"
+        }
+      ],
+      "raw_line": "縦 たて ＊VS.横よこ"
+    },
+    {
+      "id": "59a7b36bc6f11ef3",
+      "type": "vocab",
+      "word": "例え",
+      "reading": "たとえ",
+      "notes": "[unparsed: （n.）]",
+      "tag": "N3",
+      "raw_line": "例え たとえ （n.） Ｎ3 87",
+      "needs_review": true
+    },
+    {
+      "id": "0e2c05ef9a609c27",
+      "type": "vocab",
+      "word": "貫く",
+      "reading": "つらぬく",
+      "notes": "つら‐ぬ・く【貫く】 ［動カ五（四）］ １ こちら側から反対側まで突き通る。貫通する。「弾丸が壁を―・く」 ２ 端から端まで通る。貫通する。「川が町を―・いて流れる」「鋭い痛みが全身を―・く」 ３ 考えや態度などを変えることなく保ち続ける。貫徹する。「初志を―・く」 [可能]つらぬける [類語]（1）（2）突き刺す・突き通す・突き抜く・刺し通す・刺し貫く・ぶち抜く・通す・縦貫・貫通／（3）徹する・一貫・終始・貫徹・通す・押し通す・押し切る・徹底・終始一貫・首尾一貫 https://kotobank.jp/word/%E8%B2%AB%E3%81%8F-572091",
+      "raw_line": "貫く[u] つらぬく"
+    },
+    {
+      "id": "44df1e907fab1252",
+      "type": "vocab",
+      "word": "手に手を取る",
+      "notes": "手てに手てを取と・る 互いに手を取る。特に、相愛の男女が行動をともにする。「―・ってかけおちする」 [類語]手を握る・手を携える・手を取り合う・手を結ぶ・手を組む https://kotobank.jp/word/%E6%89%8B%E3%81%AB%E6%89%8B%E3%82%92%E5%8F%96%E3%82%8B-573148",
+      "raw_line": "手に手を取る[v]"
+    },
+    {
+      "id": "9aa7a0d3c01e87e7",
+      "type": "vocab",
+      "word": "溶かす",
+      "reading": "とかす",
+      "notes": "とか・す【溶かす／解かす／▽融かす】 ［動サ五（四）］ １ 薬品や熱を加えて、固形物を液状にする。「鉄を―・す」「バターを―・す」 ２ 固形物に液体を加えてまぜあわせる。また、まぜあわせて均一の液体にする。とく。「絵の具を―・す」「砂糖を水に―・す」 ３俗に、資産運用に失敗し、元本が減る。 [補説]1で、特に金属の場合は「鎔かす」「熔かす」とも書く。 [可能]とかせる [類語]溶く https://kotobank.jp/word/%E6%BA%B6%E3%81%8B%E3%81%99-582100",
+      "raw_line": "溶かす[w] とかす",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "769167437963356d",
+      "type": "vocab",
+      "word": "現時点",
+      "reading": "げんじてん",
+      "raw_line": "現時点 げんじてん"
+    },
+    {
+      "id": "714ab72aae0dea02",
+      "type": "vocab",
+      "word": "最良",
+      "reading": "さいりょ",
+      "raw_line": "最良 さいりょ"
+    },
+    {
+      "id": "2ebdf322b0ab7052",
+      "type": "grammar",
+      "word": "（動詞連用）得る",
+      "reading": "うる",
+      "notes": "[unparsed: （否定）]",
+      "related_forms": [
+        {
+          "form": "得ない",
+          "reading": "えない"
+        }
+      ],
+      "raw_line": "（動詞連用）得る うる ＊得ない えない （否定）",
+      "needs_review": true
+    },
+    {
+      "id": "80cbfa3da193dd62",
+      "type": "vocab",
+      "word": "防ぐ",
+      "reading": "ふせぐ",
+      "raw_line": "防ぐ ふせぐ"
+    },
+    {
+      "id": "36a25cefee46139d",
+      "type": "vocab",
+      "word": "都心",
+      "reading": "としん",
+      "raw_line": "都心 としん"
+    },
+    {
+      "id": "2e8dc0a41d4101f7",
+      "type": "vocab",
+      "word": "及び",
+      "reading": "および",
+      "raw_line": "及び および"
+    },
+    {
+      "id": "1c61eaafb5e896ed",
+      "type": "vocab",
+      "word": "積雪路",
+      "reading": "せきせつろ",
+      "related_forms": [
+        {
+          "form": "凍結路",
+          "reading": "とうけつろ"
+        }
+      ],
+      "raw_line": "積雪路 せきせつろ ＊凍結路 とうけつろ",
+      "ease_factor": 2.36,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "6722fb1e37e06afa",
+      "type": "grammar",
+      "word": "～恐れがある",
+      "reading": "おそれがある",
+      "raw_line": "～恐れがある おそれがある"
+    },
+    {
+      "id": "feb78faa46fece80",
+      "type": "vocab",
+      "word": "脅威",
+      "reading": "きょうい",
+      "raw_line": "脅威 きょうい"
+    },
+    {
+      "id": "fcd958090c549b60",
+      "type": "vocab",
+      "word": "人件費",
+      "reading": "じんけんひ",
+      "raw_line": "人件費 じんけんひ",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-03",
+      "last_reviewed_at": "2026-09-02"
+    },
+    {
+      "id": "25e3961eaaad8a8c",
+      "type": "grammar",
+      "word": "～につき",
+      "meaning": "https://www.sigure.tw/learn-japanese/grammar/n3/85",
+      "notes": "https://www.sigure.tw/learn-japanese/grammar/n3/85",
+      "raw_line": "～につき[x]",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "b8a72ddcfd351f8d",
+      "type": "grammar",
+      "word": "～かける/かけ（だ）",
+      "tag": "N2",
+      "raw_line": "～かける/かけ（だ） 54 N2"
+    },
+    {
+      "id": "d5ca4f338f7a34ce",
+      "type": "vocab",
+      "word": "暖房",
+      "reading": "だんぼう",
+      "raw_line": "暖房 だんぼう"
+    },
+    {
+      "id": "046c90aef5dce950",
+      "type": "vocab",
+      "word": "お茶の子[y]だ",
+      "raw_line": "お茶の子[y]だ",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "d4f3871367a8f2c4",
+      "type": "vocab",
+      "word": "屡々",
+      "reading": "しばしば",
+      "meaning": "https://tw.hinative.com/questions/15460553",
+      "notes": "https://tw.hinative.com/questions/15460553",
+      "raw_line": "屡々[z] しばしば"
+    },
+    {
+      "id": "1dc906ebc9baf6b4",
+      "type": "vocab",
+      "word": "茶碗",
+      "reading": "ちゃわん",
+      "related_forms": [
+        {
+          "form": "茶碗蒸し",
+          "reading": "ちゃわんむし"
+        }
+      ],
+      "raw_line": "茶碗 ちゃわん ＊茶碗蒸し ちゃわんむし"
+    },
+    {
+      "id": "2ea9e9b538004661",
+      "type": "vocab",
+      "word": "駐車場",
+      "reading": "ちゅうしゃじょう",
+      "raw_line": "駐車場 ちゅうしゃじょう"
+    },
+    {
+      "id": "22ed0bd6cb6fcff8",
+      "type": "vocab",
+      "word": "注目を引く",
+      "reading": "ちゅうもくをひく",
+      "raw_line": "注目を引く ちゅうもくをひく",
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "8c04cc05d66f587d",
+      "type": "vocab",
+      "word": "休業",
+      "reading": "きゅうぎょう",
+      "raw_line": "休業 きゅうぎょう"
+    },
+    {
+      "id": "a3ff796faf34afcb",
+      "type": "vocab",
+      "word": "打つ手",
+      "reading": "うつて",
+      "meaning": "https://www.sigure.tw/dict/jp/%E6%89%93%E3%81%A4%E6%89%8B",
+      "notes": "https://www.sigure.tw/dict/jp/%E6%89%93%E3%81%A4%E6%89%8B",
+      "raw_line": "打つ手[aa] うつて"
+    },
+    {
+      "id": "92f3af7cac59974c",
+      "type": "vocab",
+      "word": "書き入れる",
+      "reading": "かきいれる",
+      "raw_line": "書き入れる かきいれる",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "d46587705aea6180",
+      "type": "vocab",
+      "word": "ニットの手袋",
+      "tag": "N3",
+      "raw_line": "ニットの手袋 97 N3"
+    },
+    {
+      "id": "1cf8cb9618f2c899",
+      "type": "vocab",
+      "word": "ペットボトル",
+      "raw_line": "ペットボトル",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "2785325e8f349497",
+      "type": "vocab",
+      "word": "雑菌",
+      "reading": "ざっきん",
+      "related_forms": [
+        {
+          "form": "繁殖",
+          "reading": "はんしょく"
+        }
+      ],
+      "raw_line": "雑菌 ざっきん ＊繁殖 はんしょく"
+    },
+    {
+      "id": "0558986a8d029fd8",
+      "type": "grammar",
+      "word": "（動詞連用）がたい",
+      "raw_line": "（動詞連用）がたい"
+    },
+    {
+      "id": "1bdb0c7feb3873bc",
+      "type": "grammar",
+      "word": "ｖた",
+      "notes": "[unparsed: + かと思ったら/かと思うと]",
+      "raw_line": "ｖた + かと思ったら/かと思うと",
+      "needs_review": true
+    },
+    {
+      "id": "8634d0f8692cfb62",
+      "type": "grammar",
+      "word": "ｖる/たかvないかのうちに",
+      "raw_line": "ｖる/たかvないかのうちに",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "86571ff3d361f64d",
+      "type": "vocab",
+      "word": "降り出す",
+      "related_forms": [
+        {
+          "form": "空模様",
+          "reading": "そらもよう"
+        }
+      ],
+      "raw_line": "降り出す ＊空模様 そらもよう"
+    },
+    {
+      "id": "6522ad1cb323e4ef",
+      "type": "vocab",
+      "word": "不摂生",
+      "reading": "ふせっせい",
+      "notes": "「不摂生（ふせっせい）」とは、健康に気をつけないことや体に悪い生活習慣を続けることを意味します。暴飲暴食、睡眠不足、運動不足、喫煙や過度の飲酒などが含まれ、積み重なると病気の原因になることがあります。「不摂生」という言葉について、より具体的な使い方や特徴をまとめました。よくある不摂生の例食生活の乱れ: 栄養バランスの偏り、過食、不規則な時間の食事。休養の不足: 慢性的な睡眠不足や、疲労が蓄積している状態。運動不足: デスクワークなどで体を動かす機会が極端に少ない状態。嗜好品の過剰摂取: タバコや度重なる深酒など。日常での使い方・例文「最近不摂生な生活を送っているから、少し胃腸が疲れている」「若い頃の不摂生がたたって、今の体調に影響している（若気の至りで体に悪いことをしていた代償が出ている）」「医者に『このままでは危険なので、まずは不摂生を改めなさい』と注意された」",
+      "raw_line": "不摂生[ab] ふせっせい"
+    },
+    {
+      "id": "9dba3c9b72550cb9",
+      "type": "vocab",
+      "word": "応じる",
+      "reading": "おうじる",
+      "related_forms": [
+        {
+          "form": "応じかねる"
+        },
+        {
+          "form": "応答",
+          "reading": "おうとう"
+        },
+        {
+          "form": "応答なし"
+        }
+      ],
+      "raw_line": "応じる おうじる ＊応じかねる ＊応答 おうとう ＊応答なし",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "1f14907d95d2e846",
+      "type": "vocab",
+      "word": "見るに見かねて",
+      "notes": "「見るに見かねて」とは、「そのまま放っておいたり、ただ見ていたりするのが辛く、我慢できなくなること」を指します。状況がひどすぎて、黙って傍観できず、思わず手助けしたり注意したりした際によく使われる表現です。",
+      "raw_line": "見るに見かねて[ac]"
+    },
+    {
+      "id": "39eecde7e5b8494d",
+      "type": "vocab",
+      "word": "不運続き",
+      "reading": "ふうんつずき",
+      "raw_line": "不運続き ふうんつずき"
+    },
+    {
+      "id": "b3d11ac43040ed4d",
+      "type": "grammar",
+      "word": "（ｖる/い形容詞い/Ｎだった/Ｎである/な形容詞である）かのよう（だ/な/に）",
+      "raw_line": "（ｖる/い形容詞い/Ｎだった/Ｎである/な形容詞である）かのよう（だ/な/に）"
+    },
+    {
+      "id": "730b5088bac9e4a9",
+      "type": "vocab",
+      "word": "外国産",
+      "reading": "がいこくさん",
+      "raw_line": "外国産 がいこくさん"
+    },
+    {
+      "id": "f0f3cf63eb93cb4b",
+      "type": "grammar",
+      "word": "v原/い形い/な形な/Nの/Nである",
+      "notes": "[unparsed: ＋ 限り （なにの）限り]",
+      "raw_line": "v原/い形い/な形な/Nの/Nである ＋ 限り （なにの）限り",
+      "needs_review": true
+    },
+    {
+      "id": "10237f2fd37ec5f6",
+      "type": "grammar",
+      "word": "V/Vないとは限らない",
+      "raw_line": "V/Vないとは限らない"
+    },
+    {
+      "id": "d9a737d6037d3ff5",
+      "type": "grammar",
+      "word": "v原/Ｖた",
+      "notes": "[unparsed: ＋ 限りでは （ある範囲を根拠にすると）]",
+      "raw_line": "v原/Ｖた ＋ 限りでは （ある範囲を根拠にすると）",
+      "needs_review": true,
+      "ease_factor": 1.96,
+      "interval_days": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "613fb8bea39f1dae",
+      "type": "vocab",
+      "word": "一角",
+      "reading": "ひとかど",
+      "notes": "［名］ １ ひときわすぐれていること。いっかど。「―の人物」 ２ それ相応であること。一人前であること。「―の理屈を並べ立てる」 ３ 一つの事柄。一つの方面。 「詳慎精密にこの―を究察し」〈中村訳・西国立志編〉 ［副］相当に。いっぱし。 「君は―悪者がっているが」〈志賀・暗夜行路〉 [類語]優越・優秀・優等・優れる・秀でる・偉い・秀逸・錚錚そうそう・長ずる・長たける・粒揃い・良い・良好・良質・優良・有数・粒選り・選抜・簡抜・抜粋・精選・厳選・特選・一粒選り・白羽の矢が立つ／一人前・一丁前・尤ゆう・精良・上等・上乗・上上・特上・秀抜・見事・出色・天晴あっぱれ・最高・至高・目覚ましい・素晴らしい・物の見事・結構・上出来・輝かしい・絶妙・華華しい・美美しい・麗麗しい・ゴージャス・デラックス・選より抜き・選えり抜き・選より抜く・選えり抜く・豪儀・華やか・きらびやか・絢爛けんらん・華麗・華美・豪華・豪勢・豪奢ごうしゃ・傑作・すごい・出来映え・圧巻・水際立つ・抜群・不朽・抜きん出る・超絶・一級・絶品・逸品・極み・赫赫かくかく・見上げる・上手うわて・卓絶・飛び抜ける・ずば抜ける・図抜ける・断トツ・玄人跣くろうとはだし・一頭地を抜く・光彩・至妙 https://kotobank.jp/word/%E4%B8%80%E8%A7%92-433938",
+      "tag": "N2",
+      "raw_line": "一角[ad] ひとかど 64 N2",
+      "ease_factor": 2.36,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "382b3d2655fbec6b",
+      "type": "grammar",
+      "word": "N+からして...",
+      "notes": "[unparsed: Nも...]",
+      "raw_line": "N+からして... Nも...",
+      "needs_review": true,
+      "ease_factor": 2.5,
+      "interval_days": 6,
+      "repetitions": 2,
+      "next_review_at": "2026-09-09",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "2b135aa64847bd13",
+      "type": "grammar",
+      "word": "N+からして...",
+      "notes": "[unparsed: Nで...を判明できる]",
+      "raw_line": "N+からして... Nで...を判明できる",
+      "needs_review": true
+    },
+    {
+      "id": "91f21ee8f214454b",
+      "type": "grammar",
+      "word": "N+からすると/からすれば",
+      "notes": "[unparsed: Nの立場からすると]",
+      "raw_line": "N+からすると/からすれば Nの立場からすると",
+      "needs_review": true,
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "2642f74750dba6fd",
+      "type": "grammar",
+      "word": "N+からすると/からすれば",
+      "notes": "[unparsed: Nだけで判断すれば]",
+      "raw_line": "N+からすると/からすれば Nだけで判断すれば",
+      "needs_review": true
+    },
+    {
+      "id": "06c9817d668fe970",
+      "type": "vocab",
+      "word": "倒産",
+      "reading": "とうさん",
+      "raw_line": "倒産 とうさん"
+    },
+    {
+      "id": "4d12f24bf5cae366",
+      "type": "vocab",
+      "word": "+からといって、（＋否定）",
+      "notes": "[unparsed: 雖然]",
+      "raw_line": "+からといって、（＋否定） 雖然",
+      "needs_review": true
+    },
+    {
+      "id": "93cc06520852fb5a",
+      "type": "vocab",
+      "word": "衝動買い",
+      "reading": "しょうどうがい",
+      "raw_line": "衝動買い しょうどうがい",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "1d166b9219ff8758",
+      "type": "grammar",
+      "word": "Ｖた/Ｖる/い形/Ｎである/な形容詞である",
+      "notes": "[unparsed: + から（に）は 既然...就...]",
+      "raw_line": "Ｖた/Ｖる/い形/Ｎである/な形容詞である + から（に）は 既然...就...",
+      "needs_review": true
+    },
+    {
+      "id": "989d58113617304f",
+      "type": "vocab",
+      "word": "視覚障害者",
+      "reading": "しかくしょうがいしゃ",
+      "raw_line": "視覚障害者 しかくしょうがいしゃ"
+    },
+    {
+      "id": "acd2dda371496e27",
+      "type": "vocab",
+      "word": "路面",
+      "reading": "ろめん",
+      "raw_line": "路面 ろめん"
+    },
+    {
+      "id": "f51c92cc66535108",
+      "type": "grammar",
+      "word": "（動詞連用/Ｎ）気味",
+      "reading": "ぎみ",
+      "notes": "[unparsed: ちょっと...の感じ]",
+      "raw_line": "（動詞連用/Ｎ）気味 ぎみ ちょっと...の感じ",
+      "needs_review": true,
+      "ease_factor": 2.7,
+      "interval_days": 6,
+      "repetitions": 2,
+      "next_review_at": "2026-09-12",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "193634fdd9568f80",
+      "type": "grammar",
+      "word": "v原/Ｖた/Ｎ+きり",
+      "reading": "だけ",
+      "raw_line": "v原/Ｖた/Ｎ+きり だけ",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "65a7352c16b29ced",
+      "type": "grammar",
+      "word": "Ｖた（っ）きり（だ）",
+      "notes": "[unparsed: Ｖたのまま]",
+      "raw_line": "Ｖた（っ）きり（だ） Ｖたのまま",
+      "needs_review": true,
+      "ease_factor": 2.36,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "56f85e945e957d4e",
+      "type": "grammar",
+      "word": "（動詞連用）きる/切れる",
+      "notes": "[unparsed: Ｖという動作が終わった 否定] | (切らない) 例文：彼は俺が食事しきらないうちに家から出た",
+      "related_forms": [
+        {
+          "form": "切らない"
+        }
+      ],
+      "tag": "N2",
+      "raw_line": "（動詞連用）きる/切れる Ｖという動作が終わった ＊切らない[ae] 否定 74 N2",
+      "needs_review": true,
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-03",
+      "last_reviewed_at": "2026-09-02"
+    },
+    {
+      "id": "fe576b3bfe543b80",
+      "type": "vocab",
+      "word": "玄関の戸",
+      "notes": "[unparsed: げんかんのと＝玄関ドア]",
+      "raw_line": "玄関の戸 げんかんのと＝玄関ドア",
+      "needs_review": true
+    },
+    {
+      "id": "1b9938cfa243ba47",
+      "type": "vocab",
+      "word": "芝居",
+      "reading": "しばい",
+      "notes": "しば‐い〔‐ゐ〕【芝居】 １ 《5などに由来》歌舞伎などの興行物。しばや。「芝居好き」「芝居通」 ２ 役者などが演技をすること。また、その演技。「いい芝居をする」 ３ 計画的に人をだますためのこしらえごと。狂言。「ひと芝居打つ」 ４ 芝生に席を設けて座ること。また、芝生。 「搦手からめては―の長酒盛さかもりにてさてやみぬ」〈太平記・九〉 ５ 勧進の猿楽・曲舞くせまい・田楽などで、舞台と桟敷との間の芝生に設けた庶民の見物席。〈日葡〉 ６ 歌舞伎など有料の興行物の見物席。特に桟敷に対して、大衆の見物席をいう。 「舞の―で同じ莚むしろに居たる人」〈浮・織留・四〉 [下接語]操り芝居・田舎芝居・大芝居・御伽おとぎ芝居・戯おどけ芝居・女芝居・陰芝居・歌舞伎芝居・紙芝居・絡繰からくり芝居・草芝居・首掛け芝居・小こ芝居・子供芝居・薦こも張り芝居・猿芝居・地じ芝居・書生芝居・素人芝居・壮士芝居・旅芝居・辻つじ芝居・道化芝居・緞帳どんちょう芝居・人形芝居・初芝居・一人芝居・宮芝居・村芝居 [類語]演劇・劇・ドラマ・猿芝居 https://kotobank.jp/word/%E8%8A%9D%E5%B1%85-74675",
+      "raw_line": "芝居[af] しばい"
+    },
+    {
+      "id": "9166a6a29287b4c4",
+      "type": "vocab",
+      "word": "床屋",
+      "reading": "とこや",
+      "related_forms": [
+        {
+          "form": "床屋さん"
+        }
+      ],
+      "raw_line": "床屋 とこや ＊床屋さん"
+    },
+    {
+      "id": "cb99f2b260f03955",
+      "type": "vocab",
+      "word": "故郷",
+      "reading": "ふるさと",
+      "raw_line": "故郷 ふるさと",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-03",
+      "last_reviewed_at": "2026-09-02"
+    },
+    {
+      "id": "c98c4da6dde1b8bd",
+      "type": "vocab",
+      "word": "胃もたれ",
+      "reading": "いもたれ",
+      "notes": "「胃もたれ」とは、食べ物が胃の中に長時間残り、消化がスムーズに行われないために起こる不快感の総称です。食後に「胃が重い」「胃が張る」「むかむかする」といった症状が代表的で、暴飲暴食や加齢、ストレスなどが主な原因となります。",
+      "raw_line": "胃もたれ[ag] いもたれ"
+    },
+    {
+      "id": "4ab53bb47e99849c",
+      "type": "vocab",
+      "word": "博多人形",
+      "reading": "はかたにんぎょう",
+      "related_forms": [
+        {
+          "form": "伝統工芸品",
+          "reading": "でんとうこうげいひん"
+        }
+      ],
+      "tag": "N3",
+      "raw_line": "博多人形 はかたにんぎょう ＊伝統工芸品 でんとうこうげいひん 107 N3"
+    },
+    {
+      "id": "80a85603a1b5e0ee",
+      "type": "vocab",
+      "word": "値段",
+      "reading": "ねだん",
+      "raw_line": "値段 ねだん"
+    },
+    {
+      "id": "30afd63256cb9b10",
+      "type": "vocab",
+      "word": "徹夜",
+      "reading": "てつや",
+      "raw_line": "徹夜 てつや"
+    },
+    {
+      "id": "401af34c87030090",
+      "type": "vocab",
+      "word": "なさいますか",
+      "notes": "「なさいますか」は、相手の行動や予定を丁寧に尋ねる言葉です。何かお手伝いできることや、お調べしたいことはありますか？ 言葉の意味尊敬語：相手の動作を高める表現。 元の言葉：「する」の敬語「なさる」の丁寧なかたち。 使い方：「どうなさいますか」のように、相手の意思や選択を聞くときに使います。 つかいかたの例お買い物：「どれなさいますか」 ご予定：「明日なさいますか」 お返事：「どうなさいますか」",
+      "raw_line": "なさいますか[ah]"
+    },
+    {
+      "id": "eb1745b261484b5a",
+      "type": "vocab",
+      "word": "氷が張る",
+      "reading": "はる",
+      "raw_line": "氷が張る はる"
+    },
+    {
+      "id": "b7f80f393b10a5c8",
+      "type": "vocab",
+      "word": "鉢植え",
+      "reading": "はちうえ",
+      "raw_line": "鉢植え はちうえ"
+    },
+    {
+      "id": "3f352bc89ef374a1",
+      "type": "vocab",
+      "word": "灰皿",
+      "reading": "はいざら",
+      "raw_line": "灰皿 はいざら"
+    },
+    {
+      "id": "ff2470dc19c735b6",
+      "type": "vocab",
+      "word": "売店",
+      "reading": "ばいてん",
+      "notes": "ばい‐てん【売店】 物を売る店。特に、病院・劇場・遊園地などの施設内の小さな店。 [類語]露店・屋台・夜店・スタンド https://kotobank.jp/word/%E5%A3%B2%E5%BA%97-599094",
+      "tag": "N3",
+      "raw_line": "売店[ai] ばいてん 117 N3"
+    },
+    {
+      "id": "065e356552611194",
+      "type": "grammar",
+      "word": "（動詞連用）きる/切れる",
+      "meaning": "例文 私は疲れ切ってる",
+      "notes": "[unparsed: 完全にV] | 例文 私は疲れ切ってる",
+      "raw_line": "（動詞連用）きる/切れる[aj] 完全にV",
+      "needs_review": true
+    },
+    {
+      "id": "7516fe01b496b418",
+      "type": "vocab",
+      "word": "切れない",
+      "meaning": "使い切れない金ほしい",
+      "notes": "[unparsed: 完全にVできない] | 使い切れない金ほしい",
+      "raw_line": "切れない[ak] 完全にVできない",
+      "needs_review": true
+    },
+    {
+      "id": "302a29089a2d61d7",
+      "type": "grammar",
+      "word": "Vた/Vる/Ｖない/い形容詞い/な形容詞な/Ｎの",
+      "notes": "[unparsed: + くせに]",
+      "raw_line": "Vた/Vる/Ｖない/い形容詞い/な形容詞な/Ｎの + くせに",
+      "needs_review": true
+    },
+    {
+      "id": "c72c6d851ac0532b",
+      "type": "vocab",
+      "word": "幅広い",
+      "reading": "はばひろい",
+      "raw_line": "幅広い はばひろい"
+    },
+    {
+      "id": "a802c60f123da91f",
+      "type": "vocab",
+      "word": "くらい",
+      "notes": "[unparsed: / ぐらい]",
+      "raw_line": "くらい / ぐらい",
+      "needs_review": true,
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "0172091bf34d86ca",
+      "type": "vocab",
+      "word": "騒音",
+      "reading": "そうおん",
+      "raw_line": "騒音 そうおん",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "89223b2a0b96fd8b",
+      "type": "grammar",
+      "word": "い形容詞/な形容詞",
+      "notes": "[unparsed: + げ （な）]",
+      "raw_line": "い形容詞/な形容詞 + げ （な）",
+      "needs_review": true,
+      "ease_factor": 1.96,
+      "interval_days": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "3df01f52abea8da2",
+      "type": "grammar",
+      "word": "Vた/Vる/Ｖない/い形容詞い/な形容詞である/Ｎである",
+      "notes": "[unparsed: + ことから]",
+      "raw_line": "Vた/Vる/Ｖない/い形容詞い/な形容詞である/Ｎである + ことから",
+      "needs_review": true
+    },
+    {
+      "id": "5550a9cd0c92c6a2",
+      "type": "vocab",
+      "word": "不平不満",
+      "reading": "ふへいふまん",
+      "raw_line": "不平不満 ふへいふまん"
+    },
+    {
+      "id": "f1b7094e9ac02373",
+      "type": "grammar",
+      "word": "Nのことだから",
+      "tag": "N2",
+      "raw_line": "Nのことだから 84 N2",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "422a4fb799f770b9",
+      "type": "grammar",
+      "word": "Vることなく",
+      "raw_line": "Vることなく",
+      "ease_factor": 2.36,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "2ceb3f3ff86d9f26",
+      "type": "grammar",
+      "word": "ｖた/い形容詞い/な形容詞な",
+      "notes": "[unparsed: + ことに 讓人...的是]",
+      "raw_line": "ｖた/い形容詞い/な形容詞な + ことに 讓人...的是",
+      "needs_review": true
+    },
+    {
+      "id": "e564c03b420b7aad",
+      "type": "grammar",
+      "word": "（動詞連用）かかる",
+      "notes": "[unparsed: vs. かける[al]]",
+      "raw_line": "（動詞連用）かかる vs. かける[al]",
+      "needs_review": true
+    },
+    {
+      "id": "9bf3b8b52a0903cd",
+      "type": "grammar",
+      "word": "Vる/ｖない/い形容詞い",
+      "notes": "[unparsed: + ことになってる]",
+      "raw_line": "Vる/ｖない/い形容詞い + ことになってる",
+      "needs_review": true,
+      "ease_factor": 1.96,
+      "interval_days": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "ef72c4fcf7b1d29d",
+      "type": "vocab",
+      "word": "帰国",
+      "reading": "きこく",
+      "raw_line": "帰国 きこく"
+    },
+    {
+      "id": "a019f8f4d6a42383",
+      "type": "vocab",
+      "word": "頭痛",
+      "reading": "ずつう",
+      "raw_line": "頭痛 ずつう"
+    },
+    {
+      "id": "6326bd15a8866dfd",
+      "type": "grammar",
+      "word": "（動詞連用）/い形容詞く/な形容詞で/Nで",
+      "notes": "[unparsed: + さえ + すれば/しなければ]",
+      "raw_line": "（動詞連用）/い形容詞く/な形容詞で/Nで + さえ + すれば/しなければ",
+      "needs_review": true,
+      "ease_factor": 1.42,
+      "interval_days": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "25b521f69783aa35",
+      "type": "grammar",
+      "word": "Nさえ",
+      "notes": "[unparsed: ＋ Vれば/な形容詞なら/い形容詞ければ/nなら]",
+      "raw_line": "Nさえ ＋ Vれば/な形容詞なら/い形容詞ければ/nなら",
+      "needs_review": true
+    },
+    {
+      "id": "eec8127dbe9edf72",
+      "type": "grammar",
+      "word": "Vないざるを得ない",
+      "notes": "[unparsed: Vなきゃ → せざるを得ない]",
+      "related_forms": [
+        {
+          "form": "する"
+        }
+      ],
+      "raw_line": "Vないざるを得ない Vなきゃ  ＊する → せざるを得ない",
+      "needs_review": true
+    },
+    {
+      "id": "34ca1b5ac82ca2ca",
+      "type": "vocab",
+      "word": "苦笑",
+      "reading": "くしょう",
+      "raw_line": "苦笑 くしょう"
+    },
+    {
+      "id": "af9647aaded0c8a5",
+      "type": "grammar",
+      "word": "（動詞連用）/N",
+      "notes": "[unparsed: ＋ 次第 すぐに]",
+      "raw_line": "（動詞連用）/N ＋ 次第 すぐに",
+      "needs_review": true,
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "68cbade955434ad7",
+      "type": "vocab",
+      "word": "廃盤",
+      "reading": "はいばん",
+      "meaning": "「廃盤（はいばん）」とは、CD、レコード、DVDなどの円盤型メディアの製造や販売を終了することです",
+      "notes": "「廃盤（はいばん）」とは、CD、レコード、DVDなどの円盤型メディアの製造や販売を終了することです",
+      "raw_line": "廃盤[am] はいばん"
+    },
+    {
+      "id": "266e6c9aae9a9aa2",
+      "type": "vocab",
+      "word": "送金する",
+      "reading": "そうきんする",
+      "notes": "「送金する」とは、お金をほかの人や別の場所へ送る、銀行やアプリなどを使って支払うという意味です。送金と振込の違い送金：お金を別の場所へ届ける行為全般。振込：銀行の口座を使ってお金を送る、送金の中のひとつのやり方。主な使い方家族に生活費を送る。商品代金を支払う。海外の友達にお金を送る。",
+      "raw_line": "送金する[an] そうきんする"
+    },
+    {
+      "id": "ecc497f24300c82b",
+      "type": "vocab",
+      "word": "都合がつく",
+      "raw_line": "都合がつく",
+      "ease_factor": 2.6,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-03",
+      "last_reviewed_at": "2026-09-02"
+    },
+    {
+      "id": "88813cf349354fec",
+      "type": "vocab",
+      "word": "（理由、）～次第だ",
+      "notes": "[unparsed: ～の理由を説明]",
+      "tag": "N2",
+      "raw_line": "（理由、）～次第だ ～の理由を説明 94 N2",
+      "needs_review": true
+    },
+    {
+      "id": "1b728060c15553bc",
+      "type": "vocab",
+      "word": "（4段の）引き出し",
+      "raw_line": "（4段の）引き出し"
+    },
+    {
+      "id": "f6a72da68b90b7cb",
+      "type": "vocab",
+      "word": "髭を剃る",
+      "reading": "ひげをそる",
+      "raw_line": "髭を剃る ひげをそる"
+    },
+    {
+      "id": "24e9c5bddab060bd",
+      "type": "vocab",
+      "word": "浮世絵",
+      "reading": "うきよえ",
+      "raw_line": "浮世絵 うきよえ"
+    },
+    {
+      "id": "24d710620d71a8f9",
+      "type": "vocab",
+      "word": "札幌",
+      "reading": "さっぽろ",
+      "raw_line": "札幌 さっぽろ"
+    },
+    {
+      "id": "afd2c59aa8faaf04",
+      "type": "vocab",
+      "word": "フィルム",
+      "raw_line": "フィルム",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "cc01a6d142466fb5",
+      "type": "vocab",
+      "word": "封筒",
+      "related_forms": [
+        {
+          "form": "宛名",
+          "reading": "あてな"
+        }
+      ],
+      "raw_line": "封筒 ＊宛名 あてな",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "280ccab062b695d5",
+      "type": "vocab",
+      "word": "大手企業",
+      "reading": "おおてきぎょう",
+      "raw_line": "大手企業 おおてきぎょう"
+    },
+    {
+      "id": "76512ad5d93b40d6",
+      "type": "vocab",
+      "word": "（何に）明るい",
+      "reading": "あかるい",
+      "raw_line": "（何に）明るい あかるい",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-03",
+      "last_reviewed_at": "2026-09-02"
+    },
+    {
+      "id": "fa475e226a8b539e",
+      "type": "vocab",
+      "word": "＊布団を三つに畳みます。",
+      "raw_line": "＊布団を三つに畳みます。"
+    },
+    {
+      "id": "128ffb862a34a55e",
+      "type": "vocab",
+      "word": "刺繍",
+      "reading": "ししゅう",
+      "tag": "N3",
+      "raw_line": "刺繍 ししゅう 127 N3",
+      "ease_factor": 2.36,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "e30b92bf4861744c",
+      "type": "grammar",
+      "word": "N次第（で）Nで決める",
+      "raw_line": "N次第（で）Nで決める"
+    },
+    {
+      "id": "0c434a2994fcfde2",
+      "type": "vocab",
+      "word": "（理由）次第で、...",
+      "notes": "[unparsed: ...の理由を説明]",
+      "raw_line": "（理由）次第で、... ...の理由を説明",
+      "needs_review": true
+    },
+    {
+      "id": "edb884b5d5b78747",
+      "type": "grammar",
+      "word": "N上",
+      "notes": "[unparsed: 上 ＋（は）/の/も 理論上]",
+      "related_forms": [
+        {
+          "form": "EX："
+        }
+      ],
+      "raw_line": "N上 上 ＋（は）/の/も ＊EX： 理論上",
+      "needs_review": true,
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "37d78909f390d0bc",
+      "type": "grammar",
+      "word": "Nの末（に）",
+      "reading": "すえ",
+      "raw_line": "Nの末（に） すえ"
+    },
+    {
+      "id": "384957dda7552b59",
+      "type": "grammar",
+      "word": "Vた末",
+      "notes": "[unparsed: + の/に]",
+      "raw_line": "Vた末 + の/に",
+      "needs_review": true
+    },
+    {
+      "id": "1de5186d639199cf",
+      "type": "grammar",
+      "word": "Vないずにはいられない",
+      "notes": "[unparsed: / Vないではいられない]",
+      "raw_line": "Vないずにはいられない / Vないではいられない",
+      "needs_review": true
+    },
+    {
+      "id": "20bd16b95b77298a",
+      "type": "grammar",
+      "word": "～せいか/で/だ",
+      "raw_line": "～せいか/で/だ",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-04",
+      "last_reviewed_at": "2026-09-03"
+    },
+    {
+      "id": "9aabff216fe51e00",
+      "type": "vocab",
+      "word": "辺り",
+      "reading": "あたり",
+      "raw_line": "辺り あたり"
+    },
+    {
+      "id": "3d70f592e0890097",
+      "type": "vocab",
+      "word": "交通渋滞",
+      "reading": "こうつうじゅうたい",
+      "raw_line": "交通渋滞 こうつうじゅうたい"
+    },
+    {
+      "id": "bcf081dbecc5fbc5",
+      "type": "vocab",
+      "word": "教諭",
+      "reading": "きょうゆ",
+      "raw_line": "教諭 きょうゆ"
+    },
+    {
+      "id": "69e916ab7e5ba87b",
+      "type": "vocab",
+      "word": "悪寒",
+      "reading": "おかん",
+      "raw_line": "悪寒 おかん"
+    },
+    {
+      "id": "8ef26d5d256486f6",
+      "type": "vocab",
+      "word": "無名生活",
+      "reading": "むめいせいかつ",
+      "raw_line": "無名生活 むめいせいかつ"
+    },
+    {
+      "id": "f197a498fb9602cf",
+      "type": "vocab",
+      "word": "（喧嘩が）絶えない",
+      "reading": "たえない",
+      "notes": "(絶える) １ 続いていたものが途中で切れて続かなくなる。とぎれる。「人通りが―・える」「仕送りが―・える」 ２ 切れたあと完全になくなってしまう。なくなる。尽きる。「血筋が―・える」「けんかが―・えない」 ３ 呼吸が止まる。死ぬ。「命が―・える」 [類語]やむ・とだえる・とぎれる https://kotobank.jp/word/%E7%B5%B6%E3%81%88%E3%82%8B-559003",
+      "related_forms": [
+        {
+          "form": "絶える"
+        }
+      ],
+      "raw_line": "（喧嘩が）絶えない たえない ＊絶える[ao]"
+    },
+    {
+      "id": "f4d37e3fc9f69139",
+      "type": "vocab",
+      "word": "毛布",
+      "reading": "もうふ",
+      "raw_line": "毛布 もうふ"
+    },
+    {
+      "id": "0137843e207c4a65",
+      "type": "grammar",
+      "word": "例え",
+      "notes": "[unparsed: + Vて/い形容詞くて + も]",
+      "raw_line": "例え + Vて/い形容詞くて + も",
+      "needs_review": true
+    },
+    {
+      "id": "c6579127a1b1a19a",
+      "type": "grammar",
+      "word": "たとえ",
+      "notes": "[unparsed: + Ｎ/な形容詞 + でも]",
+      "raw_line": "たとえ + Ｎ/な形容詞 + でも",
+      "needs_review": true
+    },
+    {
+      "id": "86f92d3272972ccd",
+      "type": "vocab",
+      "word": "ブレーキをかける",
+      "raw_line": "ブレーキをかける",
+      "ease_factor": 2.5,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "87e03e15284ef170",
+      "type": "vocab",
+      "word": "追突",
+      "reading": "ついとつ",
+      "tag": "N2",
+      "raw_line": "追突 ついとつ 104 N2"
+    },
+    {
+      "id": "86a497564f880226",
+      "type": "vocab",
+      "word": "法律を定める",
+      "reading": "さだめる",
+      "raw_line": "法律を定める さだめる",
+      "ease_factor": 2.36,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "2605c9fe6e0cb16a",
+      "type": "vocab",
+      "word": "漁業",
+      "reading": "ぎょぎょう",
+      "raw_line": "漁業 ぎょぎょう"
+    },
+    {
+      "id": "eebfc45b9fa24009",
+      "type": "vocab",
+      "word": "毎月",
+      "reading": "まいつき",
+      "raw_line": "毎月 まいつき"
+    },
+    {
+      "id": "705fc4b90ad423b7",
+      "type": "vocab",
+      "word": "活気",
+      "reading": "かっき",
+      "related_forms": [
+        {
+          "form": "活気に乏しい",
+          "reading": "とぼしい"
+        }
+      ],
+      "raw_line": "活気 かっき ＊活気に乏しい とぼしい",
+      "ease_factor": 2.36,
+      "interval_days": 1,
+      "repetitions": 1,
+      "next_review_at": "2026-09-07",
+      "last_reviewed_at": "2026-09-06"
+    },
+    {
+      "id": "ae5567baadbcceac",
+      "type": "vocab",
+      "word": "日当たり",
+      "reading": "ひあたり",
+      "tag": "N3",
+      "raw_line": "日当たり ひあたり 137 Ｎ3"
+    }
+  ],
+  "lastSync": "0001-01-01T00:00:00Z"
+}
